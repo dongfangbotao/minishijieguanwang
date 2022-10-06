@@ -1,0 +1,472 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://www.mini1.cn/",
+            "path": "index.html",
+            "saved": true,
+            "size": 9284,
+            "children": [
+                {
+                    "url": "https://webpicture.mini1.cn/20220930/2201256c0f9889-d1ea-7a27-4675-605b94bbdf65.png",
+                    "path": "img/2201256c0f9889-d1ea-7a27-4675-605b94bbdf65.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/logo599526e30af12f76f4ce68eb0ca76878.png",
+                    "path": "img/logo599526e30af12f76f4ce68eb0ca76878.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://image.mini1.cn/d/20211014/0268f62cf601344076a5d2f8f255453f.png",
+                    "path": "img/0268f62cf601344076a5d2f8f255453f.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://image.mini1.cn/d/20211014/249a33a1ab1e41f62be10d50aaac89f6.png",
+                    "path": "img/249a33a1ab1e41f62be10d50aaac89f6.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/images/qrcode.1.png",
+                    "path": "img/qrcode.1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://image.mini1.cn/d/20211014/85fb02a9d4b7e3d56b719aa0c5307b6c.png",
+                    "path": "img/85fb02a9d4b7e3d56b719aa0c5307b6c.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/icon120211021.png",
+                    "path": "img/icon120211021.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/icon220211021.png",
+                    "path": "img/icon220211021.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/icon320211021.png",
+                    "path": "img/icon320211021.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/icon420211021.png",
+                    "path": "img/icon420211021.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/icon520211021.png",
+                    "path": "img/icon520211021.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/icon620211021.png",
+                    "path": "img/icon620211021.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/icon720211021.png",
+                    "path": "img/icon720211021.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/icon820211021.png",
+                    "path": "img/icon820211021.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/icon920211021.png",
+                    "path": "img/icon920211021.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/icon1cce43532d5fdd69d6b3f4ca46b69039b.png",
+                    "path": "img/icon1cce43532d5fdd69d6b3f4ca46b69039b.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/icon231e7ad89fbe2ea1a1b2b3fa854e975b9.png",
+                    "path": "img/icon231e7ad89fbe2ea1a1b2b3fa854e975b9.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/icon391e296c1156234ffd5cf222eaf160473.png",
+                    "path": "img/icon391e296c1156234ffd5cf222eaf160473.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/icon4a1db8c9c9c50ac48298037ad2252f696.png",
+                    "path": "img/icon4a1db8c9c9c50ac48298037ad2252f696.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://image.mini1.cn/d/20211014/5cf7feae114d63900400bab738c88b00.jpg",
+                    "path": "img/5cf7feae114d63900400bab738c88b00.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://image.mini1.cn/a/20190530/ddb304480e391961f0765cb080d04ff9.jpg",
+                    "path": "img/ddb304480e391961f0765cb080d04ff9.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://image.mini1.cn/a/20190619/48be60f7760c2f0b3bc83ea2dfcfc7c8.jpg",
+                    "path": "img/48be60f7760c2f0b3bc83ea2dfcfc7c8.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://image.mini1.cn/d/20211015/dada912f9fb69c85814959c94dd6067b.png",
+                    "path": "img/dada912f9fb69c85814959c94dd6067b.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/y123b26e4e2138f91b8672b8e7f5bd90c89.png",
+                    "path": "img/y123b26e4e2138f91b8672b8e7f5bd90c89.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/advancedHome/images/2bf784eb.public.png",
+                    "path": "img/2bf784eb.public.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://static-www.mini1.cn/assets/js/miniwan_common.js",
+                    "path": "js/miniwan_common.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pkg.mini1.cn/jquery@1.12.4/dist/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 97163,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn-activity.mini1.cn/mnshare/js/jquery.SuperSlide.2.1.3.js",
+                    "path": "js/jquery.SuperSlide.2.1.3.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/js/index.23f7daf623a488fd1ef7.js",
+                    "path": "js/index.23f7daf623a488fd1ef7.js",
+                    "saved": true,
+                    "size": 9728,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/css/index.23f7daf623a488fd1ef7.css",
+                    "path": "css/index.23f7daf623a488fd1ef7.css",
+                    "saved": true,
+                    "size": 37388,
+                    "children": [
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/qrcodebg84b780fa8c81846e6a8c9bc141d1c409.jpg",
+                            "path": "img/qrcodebg84b780fa8c81846e6a8c9bc141d1c409.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/iphone61f71caab0fc16b640681d1e1aa44e1a.jpg",
+                            "path": "img/iphone61f71caab0fc16b640681d1e1aa44e1a.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/anzhuoa1e26e34c4fcfd4901058663f7d22c20.jpg",
+                            "path": "img/anzhuoa1e26e34c4fcfd4901058663f7d22c20.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/exe2d95f1eaeae9ee4d00d1695dc0301811.png",
+                            "path": "img/exe2d95f1eaeae9ee4d00d1695dc0301811.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/bg1ac4148926603e242235d37d3db8e577e.png",
+                            "path": "img/bg1ac4148926603e242235d37d3db8e577e.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/zhuanshub0e78328ac383e2d72121c82ddf8ea20.png",
+                            "path": "img/zhuanshub0e78328ac383e2d72121c82ddf8ea20.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/lefticona6af4152e25a769ea5969b4533457471.png",
+                            "path": "img/lefticona6af4152e25a769ea5969b4533457471.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/aside1c9b939ad877214da54b64894058d7b27.png",
+                            "path": "img/aside1c9b939ad877214da54b64894058d7b27.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/aside206b47a9a4c34adcad7bbea4ed5df20c0.png",
+                            "path": "img/aside206b47a9a4c34adcad7bbea4ed5df20c0.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/aside33b16c186d7d6c9a50dc3cbdf4295028a.png",
+                            "path": "img/aside33b16c186d7d6c9a50dc3cbdf4295028a.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/bg2492602c06f8299642d6f867e24265fd0.jpg",
+                            "path": "img/bg2492602c06f8299642d6f867e24265fd0.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/fulif2d1d90624030921d54b58cf01ade116.png",
+                            "path": "img/fulif2d1d90624030921d54b58cf01ade116.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/wenan5c695238cc9daefeaf3cfcdc2075e1fd.png",
+                            "path": "img/wenan5c695238cc9daefeaf3cfcdc2075e1fd.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/bg39472bb3240c8e49f0ca59bbb790e0357.jpg",
+                            "path": "img/bg39472bb3240c8e49f0ca59bbb790e0357.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/jiheicon1f886eb051455abe52df9155fbe6f251.png",
+                            "path": "img/jiheicon1f886eb051455abe52df9155fbe6f251.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/swiper087182415e9845cde418300741c03ef8.png",
+                            "path": "img/swiper087182415e9845cde418300741c03ef8.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/swiperonbgd564a728397cd157993393f49a919b4c.png",
+                            "path": "img/swiperonbgd564a728397cd157993393f49a919b4c.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/bottomdee5a0e0643835b34d132a10d8c9e080.jpg",
+                            "path": "img/bottomdee5a0e0643835b34d132a10d8c9e080.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/rightbar47a6550fcb126a619664fd8fc512448e.png",
+                            "path": "img/rightbar47a6550fcb126a619664fd8fc512448e.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/dwon2c9604c79dd1150358ec1232da9422965.png",
+                            "path": "img/dwon2c9604c79dd1150358ec1232da9422965.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/giftpopc68a958ab4db04e8fccffc1ff83be4f2.png",
+                            "path": "img/giftpopc68a958ab4db04e8fccffc1ff83be4f2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/giftbg8ee57de15f89dd3151845c8d5b376b6b.png",
+                            "path": "img/giftbg8ee57de15f89dd3151845c8d5b376b6b.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/minijidi62be5dc3e6096def7b336b3bd74556ae.png",
+                            "path": "img/minijidi62be5dc3e6096def7b336b3bd74556ae.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/icon/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/icon/logo-32x32.png",
+                    "path": "img/logo-32x32.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/icon/logo-64x64.png",
+                    "path": "img/logo-64x64.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/icon/logo-128x128.png",
+                    "path": "img/logo-128x128.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "www-mini1-cn-d95v4oy9",
+    "info": {
+        "remark": [],
+        "title": "迷你世界-官方网站-想象无边界 创造无止境",
+        "domain": "www.mini1.cn",
+        "origin": "https://www.mini1.cn",
+        "ip": "14.128.1.14",
+        "main": "index.html",
+        "url": "https://www.mini1.cn/",
+        "totalSize": "154 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://www.mini1.cn/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://www.mini1.cn/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Thu, 06 Oct 2022 01:20:03 GMT",
+                "content-type": "text/html",
+                "content-length": "11977",
+                "connection": "close",
+                "expires": "Thu, 06 Oct 2022 01:30:03 GMT",
+                "last-modified": "Thu, 06 Oct 2022 00:52:49 GMT",
+                "etag": "\"633e26e1-2ec9\"",
+                "cache-control": "max-age=600",
+                "accept-ranges": "bytes",
+                "server": "nginx",
+                "x-via": "1.1 benda152:3 (Cdn Cache Server V2.0), 1.1 PSrbJP1am225:2 (Cdn Cache Server V2.0)",
+                "x-ws-request-id": "633e2d42_PSrbJP1rf224_16155-44551"
+            }
+        },
+        "time": {
+            "start": "2022-10-06T01:20:02.542Z",
+            "end": "2022-10-06T01:20:07.143Z"
+        }
+    },
+    "options": {
+        "url": "https://www.mini1.cn/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
